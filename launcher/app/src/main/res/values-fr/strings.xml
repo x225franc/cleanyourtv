@@ -98,4 +98,11 @@
     <string name="clock_format_system">Système</string>
     <string name="clock_format_12">12 heures</string>
     <string name="clock_format_24">24 heures</string>
+    <string name="quick_bluetooth">Bluetooth</string>
+    <string name="quick_screensaver">Économiseur d’écran</string>
+    <string name="quick_sound">Son</string>
+    <string name="quick_picture">Image</string>
+    <string name="quick_network">Réseau</string>
+    <string name="quick_apps">Applications</string>
+    <string name="quick_apps_hint">Réactiver</string>
 </resources>
